@@ -4,3 +4,8 @@ version = "0.1.0"
 authors = ["tensor-programming <abeltensor@tensor-programming.com>"]
 
 [dependencies]
+magic-crypt = "3.1.9"
+chrono = "0.4.19"                   # Date and time library for Rust
+colored = "2.0.0"              # The most simple way to add colors in your terminal
+sqlite = "0.26.0"               # The package provides an interface to SQLite.
+
